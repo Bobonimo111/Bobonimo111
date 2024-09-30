@@ -1,4 +1,23 @@
-## Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobonimo111&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobonimo111\&layout=donut&theme=cobalt)
+## Ola me chamo William rodrigues, sigo estudando no momento na unifacol
+<div>
+<a href="https://www.linkedin.com/in/william-santos-dev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bobonimo111&theme=cobalt" />
+</a>
+<a href="https://www.linkedin.com/in/william-santos-dev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobonimo111&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
+</a>
+  <div>
+    <br>
+  </div>
+</div>
+<div style="display: inline-block;" height=120 >
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"  />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
+</div>
