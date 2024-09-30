@@ -1,4 +1,4 @@
-## Ola me chamo William rodrigues, sigo estudando no momento na unifacol
+## Ola me chamo William rodrigues e sigo estudando 
 <div>
 <a href="https://www.linkedin.com/in/william-santos-dev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bobonimo111&theme=cobalt" />
