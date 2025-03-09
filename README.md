@@ -1,23 +1,15 @@
-## Ola me chamo William Rodrigues e sigo estudando 
-<div>
-<a href="https://www.linkedin.com/in/william-santos-dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bobonimo111&theme=cobalt" />
-</a>
-<a href="https://www.linkedin.com/in/william-santos-dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobonimo111&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
-</a>
-  <div>
-    <br>
-  </div>
-</div>
-<div style="display: inline-block;" height=120 >
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"  />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-          
-</div>
+<h1 align="center">Hi 👋, I'm William Rodrigues</h1>
+<h3 align="center">A student, the system of information</h3>
+
+- 🌱 I’m currently learning **VueJS, Spring Boot**
+
+- 📫 How to reach me **williamr.c.santos@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/bobonimo111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bobonimo111" height="30" width="40" /></a>
+<a href="https://twitter.com/whiskbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whiskbr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/william-santos-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-santos-dev" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobonimo111&show_icons=true&theme=dark&locale=en&layout=compact" alt="bobonimo111" /></p>
