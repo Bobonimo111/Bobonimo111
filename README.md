@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Rodrigues</h1>
 <h3 align="center">A student, the system of information</h3>
 
-- 🌱 I’m currently learning **VueJS, Spring Boot**
+- 🌱 I’m currently learning **VueJS, Spring Boot, laravel**
 
 - 📫 How to reach me **williamr.c.santos@gmail.com**
 
