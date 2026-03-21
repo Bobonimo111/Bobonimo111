@@ -54,7 +54,7 @@ construindo soluções com Java, PHP e explorando o universo dos frameworks mode
 | 🏷️ Projeto | 📝 Descrição | 🔗 Link |
 |------------|-------------|---------|
 | `Projeto SGO` | Sistema de gerenciamento de ocorrencias de animais, atualmente como BACK-END e DevOps |  |
-| `Bruno:OpenSource` | Contribuidor para correções de bugs | [Ver repositório]([#](https://github.com/usebruno/bruno)) |
+| `Bruno:OpenSource` | Contribuidor para correções de bugs | [Ver repositório](https://github.com/usebruno/bruno) |
 
 ---
 
@@ -66,9 +66,9 @@ construindo soluções com Java, PHP e explorando o universo dos frameworks mode
 
 | 🏷️ Projeto| 📝 Descrição | 🛠️ Tecnologias | 🔗 Link |
 |------------|-----------|---------------|---------|
-| `Estudo sobre Criptografia AES` | Visa implementar a criptografica AES de forma direta |  Java 21 · spring boot · criptografia | [Ver repositório]([#](https://github.com/Bobonimo111/desafio-criptografia-java)) |
-| `Estudo sobre designe Patterns` | construi uma estrutura de nativa de consumo da API do telegram utilizando padrões de projeto | Java 21 · Spring Boot · padrões de projeto | [Ver repositório]([#](https://github.com/Bobonimo111/Telegram-bot-abstract)) |
-| `ppfsIV` | API RestFull com foco em otmização do banco de dados e arquitetura de containers | Java 21 · Quarkus · Redis | [Ver repositório]([#](https://github.com/Bobonimo111/Projeto-pessoal-finaliza-o-de-semestre-IV)) |
+| `Estudo sobre Criptografia AES` | Visa implementar a criptografica AES de forma direta |  Java 21 · spring boot · criptografia | [Ver repositório](https://github.com/Bobonimo111/desafio-criptografia-java) |
+| `Estudo sobre designe Patterns` | construi uma estrutura de nativa de consumo da API do telegram utilizando padrões de projeto | Java 21 · Spring Boot · padrões de projeto | [Ver repositório](https://github.com/Bobonimo111/Telegram-bot-abstract) |
+| `ppfsIV` | API RestFull com foco em otmização do banco de dados e arquitetura de containers | Java 21 · Quarkus · Redis | [Ver repositório](https://github.com/Bobonimo111/Projeto-pessoal-finaliza-o-de-semestre-IV) |
 
 ---
 
